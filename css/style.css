@@ -918,7 +918,7 @@ body.offcanvas {
     transform: scale(1.1); }
 
 .work-menu span {
-  margin-left: 10px; }
+  margin-left: 5vw; }
   .work-menu span:first-child {
     margin-left: 0; }
   .work-menu span a {
